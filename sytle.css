@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+.hero {
+    text-align: center;
+    padding: 50px;
+}
+
+form input, form button {
+    margin-top: 10px;
+}
